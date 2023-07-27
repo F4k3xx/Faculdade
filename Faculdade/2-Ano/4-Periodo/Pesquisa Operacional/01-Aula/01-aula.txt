@@ -1,1 +1,6 @@
 Professor: Marcelo
+
+Materia:
+Link:https://doi.editoracubo.com.br/10.4322/PODes.2022.002
+Link:http://vigo.ime.unicamp.br/~fismat/2006/06/pesquisa-operacional.html
+Link:https://docs.google.com/presentation/d/1w56zSwDa5XMeeiSGEdQfRt3LCpCASUpXYamEUvPLHi8/edit?pli=1#slide=id.g25b6425995e_0_37
