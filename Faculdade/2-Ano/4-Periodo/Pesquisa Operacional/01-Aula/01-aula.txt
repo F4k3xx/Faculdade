@@ -4,3 +4,30 @@ Materia:
 Link:https://doi.editoracubo.com.br/10.4322/PODes.2022.002
 Link:http://vigo.ime.unicamp.br/~fismat/2006/06/pesquisa-operacional.html
 Link:https://docs.google.com/presentation/d/1w56zSwDa5XMeeiSGEdQfRt3LCpCASUpXYamEUvPLHi8/edit?pli=1#slide=id.g25b6425995e_0_37
+
+
+Agendamento de Reuniões
+
+Situação Atual:
+Atualmente, muitas vezes o agendamento de reuniões envolve uma série de trocas
+de e-mails ou mensagens para encontrar um horário adequado para todos os participantes.
+Isso pode ser demorado e propenso a erros, especialmente quando há diferentes fusos horários envolvidos.
+As pessoas precisam verificar suas agendas, responder aos convites e confirmar disponibilidade, o que pode resultar em atrasos e confusões.
+
+Eficiência Aprimorada:
+Uma maneira mais eficiente de realizar o agendamento de reuniões seria usar uma ferramenta de agendamento automatizado.
+Essa ferramenta permitiria que os participantes visualizassem as agendas uns dos outros em tempo real e escolhessem automaticamente um horário disponível para todos. 
+Isso eliminaria a necessidade de trocas intermináveis de e-mails e agilizaria o processo.
+
+Benefícios
+
+Economia de Tempo: A ferramenta automatizada eliminaria a necessidade de trocas repetitivas de mensagens e reduziria significativamente o tempo gasto no agendamento.
+Redução de Erros: A automatização diminuiria as chances de erros de comunicação ou de interpretação dos horários.
+Maior Satisfação dos Participantes: O processo mais eficiente resultaria em menos frustrações e atrasos, aumentando a satisfação de todos os envolvidos.
+Tecnologias Possíveis:
+Existem várias ferramentas disponíveis que já oferecem soluções de agendamento automatizado, como Calendly, Doodle e Microsoft FindTime. 
+Além disso, com avanços contínuos em inteligência artificial e processamento de linguagem natural, seria possível criar sistemas ainda mais sofisticados que compreendessem as preferências individuais dos participantes e sugeressem automaticamente os melhores horários.
+
+Conclusão:
+A automação do agendamento de reuniões é apenas um exemplo de como as atividades podem ser aprimoradas para se tornarem mais eficientes. A aplicação de tecnologias adequadas pode liberar tempo e recursos preciosos, além de melhorar a experiência geral dos envolvidos na atividade.
+
